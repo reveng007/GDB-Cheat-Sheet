@@ -4,7 +4,7 @@ More important commands have a (*) by them.
 
 ### Special Thanks to: [rkubik](https://gist.github.com/rkubik)
 
-### I just made a markdown version of his gist repo: [gist repo](https://gist.github.com/rkubik/b96c23bd8ed58333de37f2b8cd052c30)
+### I just made a markdown version of the text file of his gist repo: [gist repo](https://gist.github.com/rkubik/b96c23bd8ed58333de37f2b8cd052c30)
 
 ### Startup 
 ```
