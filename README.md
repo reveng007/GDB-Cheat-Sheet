@@ -174,3 +174,5 @@ More important commands have a (*) by them.
 *(gdb) source file        	load gdb commands from file
 *(gdb) quit        		quit gdb
 ```
+
+Also see this: [pdf](https://users.ece.utexas.edu/~adnan/gdb-refcard.pdf)
